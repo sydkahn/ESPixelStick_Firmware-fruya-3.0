@@ -1,4 +1,4 @@
-NOTE: this has been A special patched binary to be compatible with the Fruya flash chips on the ESWP01
+NOTE: this has a special patched binary to be compatible with the Fruya flash chips on the ESPP01
 
 
 ESPixelStick Binaries
